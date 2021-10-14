@@ -11,7 +11,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div>
-  <img align="center" alt="linkedin" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1634234806~hmac=73273bb938248d3b5f4709905eb5cea8">
+  <a href="https://www.linkedin.com/in/ester-oliveira-7503a6215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDVnwxEdOQp%2BVF7tTJvzl1w%3D%3D"><img align="center" alt="linkedin" height="40" width="40" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1634234806~hmac=73273bb938248d3b5f4709905eb5cea8"></a>
 </div>
 
 
