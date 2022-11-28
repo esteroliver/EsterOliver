@@ -12,8 +12,9 @@
 </div>
 <br>
 <div style="display:inline_block">
-  <a href="https://www.linkedin.com/in/ester-oliveira-7503a6215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDVnwxEdOQp%2BVF7tTJvzl1w%3D%3D"><img align="center" alt="linkedin" height="30" width="30" src="https://www.flaticon.com/br/icone-gratis/linkedin_145807?term=linkedin&page=1&position=4&page=1&position=4&related_id=145807&origin=search"></a>
-  <a href="https://www.instagram.com/te_oli_/"><img align="center" alt="linkedin" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
+  <a href="https://www.linkedin.com/in/ester-oliveira-7503a6215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDVnwxEdOQp%2BVF7tTJvzl1w%3D%3D">Meu LinkedIn</a>
+  <p> | </p>
+  <a href="https://www.instagram.com/teduarte/">Meu Instagram</a>
 </div>
 
 
