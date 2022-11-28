@@ -12,7 +12,7 @@
 </div>
 <br>
 <div style="display:inline_block">
-  <a href="https://www.linkedin.com/in/ester-oliveira-7503a6215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDVnwxEdOQp%2BVF7tTJvzl1w%3D%3D" target="_blank">Meu LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ester-oliveira-7503a6215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDVnwxEdOQp%2BVF7tTJvzl1w%3D%3D" target="_blank">Meu LinkedIn</a> <a> | </a>
   <a href="https://www.instagram.com/te_oli_/" target="_blank">Meu Instagram</a>
 </div>
 
