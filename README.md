@@ -12,8 +12,8 @@
 </div>
 <br>
 <div style="display:inline_block">
-  <a href="https://www.linkedin.com/in/ester-oliveira-7503a6215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDVnwxEdOQp%2BVF7tTJvzl1w%3D%3D" target="_blank"><img height="30" width="40" alt="Minha conta do LinkedIn." scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/olvrester/" target="_blank"><img height="30" width="40" alt="Minha conta do Instagram." scr="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ester-oliveira-7503a6215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDVnwxEdOQp%2BVF7tTJvzl1w%3D%3D" target="_blank"><img alt="Minha conta do LinkedIn." scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/olvrester/" target="_blank"><img alt="Minha conta do Instagram." scr="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 
