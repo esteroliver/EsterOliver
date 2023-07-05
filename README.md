@@ -12,8 +12,8 @@
 </div>
 <br>
 <div style="display:inline_block">
-  <a href="https://www.linkedin.com/in/ester-oliveira-7503a6215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDVnwxEdOQp%2BVF7tTJvzl1w%3D%3D" target="_blank">Meu LinkedIn</a> <a> | </a>
-  <a href="https://www.instagram.com/ester0li/" target="_blank">Meu Instagram</a>
+  <a href="https://www.linkedin.com/in/ester-oliveira-7503a6215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDVnwxEdOQp%2BVF7tTJvzl1w%3D%3D" target="_blank"><img height="30" width="40" alt="Minha conta do LinkedIn." scr="https://www.flaticon.com/br/icone-gratis/linkedin_145807?term=linkedin&page=1&position=2&origin=search&related_id=145807"></a>
+  <a href="https://www.instagram.com/olvrester/" target="_blank">Meu Instagram</a>
 </div>
 
 
