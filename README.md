@@ -1,4 +1,5 @@
 ### Hello! I'm Ester Oliveira! :)
+<p>I'm a college student, studying systems analysis and development at IFRN.</p>
 <div style="display: flex">
   <a href="https://github.com/esteroliver">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=esteroliver&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" style=" align-items: flex-start"/>
