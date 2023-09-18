@@ -1,19 +1,24 @@
-### Olá! Ester Oliveira aqui! :)
-<div style="display: flex">
-  <a href="https://github.com/esteroliver">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=esteroliver&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" style=" align-items: flex-start"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteroliver&layout=donut&langs_count=7&theme=onedark"/>
-</div>
+# Olá! Ester Oliveira aqui! :)
+Tenho 19 anos e sou estudante de ADS no IFRN/CNAT. <br>
+Minhas áreas de interesse são:
+- Design
+- Data science
+- Front-end
+## Tecnologias que estudo
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
-<br>
+
+## Contato
 <div>
   <a href="https://www.linkedin.com/in/ester-oliveira-melo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:oliver.ester.2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 
