@@ -2,7 +2,6 @@
 Tenho 19 anos e sou estudante de ADS no IFRN/CNAT. <br>
 Minhas áreas de interesse são:
 - Design
-- Data science
 - Front-end
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
