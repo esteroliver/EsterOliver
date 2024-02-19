@@ -2,7 +2,11 @@
 Tenho 19 anos e sou estudante de ADS no IFRN/CNAT. <br>
 Minhas áreas de interesse são:
 - Design
-- Front-end
+- Fullstack web
+Estudo algumas frameworks como:
+- Django
+- SpringBoot
+- Angular
 ## Tecnologias de estudo
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
