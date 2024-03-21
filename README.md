@@ -1,9 +1,5 @@
 # Olá! Ester Oliveira aqui! :)
 Tenho 19 anos e sou estudante de ADS no IFRN/CNAT. <br>
-Minhas áreas de interesse são:
-- Design
-- Fullstack web
-
 Estudo algumas frameworks como:
 - Django
 - SpringBoot
