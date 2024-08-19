@@ -1,26 +1,23 @@
 # Olá! Ester Oliveira aqui! :)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=esteroliver&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esteroliver&hide_progress=false&layout=compact&theme=synthwave)
-## Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-</div>
+### Tecnologias
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=red)
 
-## Contato
-<div>
-  <a href="https://www.linkedin.com/in/ester-oliveira-melo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:oliver.ester.2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+### Linguagens
+![Cpp](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+
+### Contato
+[![](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mailto:oliver.ester.2004@gmail.com)
+[![](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ester-oliveira-melo)
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=esteroliver&show_icons=true&theme=synthwave&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esteroliver&hide_progress=false&layout=compact&theme=synthwave)
+
+
 
 
