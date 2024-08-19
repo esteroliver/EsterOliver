@@ -1,10 +1,6 @@
 # Olá! Ester Oliveira aqui! :)
-Tenho 19 anos e sou estudante de ADS no IFRN/CNAT. <br>
-Estudo algumas frameworks como:
-- Django
-- SpringBoot
-- Angular
-## Tecnologias de estudo
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=esteroliver&show_icons=true&theme=synthwave) <br>
+## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
