@@ -5,7 +5,6 @@
 ### Tecnologias
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=red)
 
 ### Linguagens
 ![Cpp](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=blue)
