@@ -10,7 +10,6 @@
 ![Cpp](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
 ### Contato
 [![](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mailto:oliver.ester.2004@gmail.com)
