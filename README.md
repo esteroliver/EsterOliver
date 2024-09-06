@@ -1,4 +1,7 @@
 # Olá! Ester Oliveira aqui! :)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=esteroliver&show_icons=true&theme=synthwave&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esteroliver&hide_progress=false&layout=compact&theme=synthwave)
+
 ### Tecnologias
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot)
